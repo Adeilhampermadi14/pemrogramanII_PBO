@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\bin\Debug\P7_1_1194001.exe.config
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\bin\Debug\P7_1_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\bin\Debug\P7_1_1194001.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_714220040(1).csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_1194001.Form1.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_1194001.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_714220040(1).csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_714220040(1).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan07\Praktikum\P7_1_714220040(1)\P7_1_714220040(1)\obj\Debug\P7_1_1194001.pdb
