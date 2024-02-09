@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\bin\Debug\P2_1_1194001.exe.config
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\bin\Debug\P2_1_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\bin\Debug\P2_1_1194001.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\obj\Debug\P2_1_1194001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\obj\Debug\P2_1_1194001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\obj\Debug\P2_1_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan02\Praktikum\P2_1_714220040\P2_1_714220040\obj\Debug\P2_1_1194001.pdb
