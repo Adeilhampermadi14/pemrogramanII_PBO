@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\bin\Debug\P5_2_1194001.exe.config
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\bin\Debug\P5_2_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\bin\Debug\P5_2_1194001.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.ChildForm.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.ParentForm1.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_2_714220040\P5_2_1194001\obj\Debug\P5_2_1194001.pdb
