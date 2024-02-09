@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\bin\Debug\TryTugasP5.exe.config
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\bin\Debug\TryTugasP5.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\bin\Debug\TryTugasP5.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\TryTugasP5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\P5_4_1194001.FormAstraMusicSchool.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\TryTugasP5.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\TryTugasP5.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\TryTugasP5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\TryTugasP5.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan05\Praktikum\P5_4_714220040\TryTugasP5\obj\Debug\TryTugasP5.pdb
