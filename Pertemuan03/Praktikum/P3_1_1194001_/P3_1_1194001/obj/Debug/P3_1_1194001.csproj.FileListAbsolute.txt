@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\bin\Debug\P3_1_714220040.exe.config
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\bin\Debug\P3_1_714220040.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\obj\Debug\P3_1_1194001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\obj\Debug\P3_1_1194001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\obj\Debug\P3_1_714220040.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\obj\Debug\P3_1_714220040.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_714220040\P3_1_714220040\bin\Debug\P3_1_714220040.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\bin\Debug\P3_1_1194001.exe.config
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\bin\Debug\P3_1_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\bin\Debug\P3_1_1194001.pdb
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\obj\Debug\P3_1_1194001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\obj\Debug\P3_1_1194001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\obj\Debug\P3_1_1194001.exe
+C:\Users\Lenovo\Downloads\PemrogramanII_PBO-master\Pertemuan03\Praktikum\P3_1_1194001_\P3_1_1194001\obj\Debug\P3_1_1194001.pdb
